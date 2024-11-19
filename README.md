@@ -1,4 +1,6 @@
 # Implementation-of-filter
+### EXP : 5
+### DATE : 23 / 9 / 24
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -27,8 +29,8 @@ Display each filtered image using plt.subplot() and plt.imshow() for side-by-sid
 Save or show the images using plt.show() after applying each filter to visualize the effects of smoothing and sharpening.
 
 ## Program:
-### Developed By   : MANOJ M
-### Register Number: 212221240027
+#### Developed By   : MANOJ M
+#### Register Number: 212221240027
 ```
 import cv2
 import matplotlib.pyplot as plt
